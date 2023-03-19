@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ConvertMoni</string>
+    <string name="amt_text">Amount:</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert_text">Convert</string>
+    <string-array name="currencies">
+        <item>AED</item>
+        <item>AUD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>GBP</item>
+        <item>EUR</item>
+        <item>XAF</item>
+        <item>NGN</item>
+        <item>USD</item>
+        <item>KWD</item>
+        <item>SEK</item>
+        <item>SAR</item>
+        <item>ZAR</item>
+        <item>ZMW</item>
+        <item>ZWD</item>
+    </string-array>
+</resources>
